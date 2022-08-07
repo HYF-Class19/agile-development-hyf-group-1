@@ -2,27 +2,26 @@
   "language": "en",
   "words": [
     "accessibility_report",
+    "Ayissi",
     "Bilde",
     "Christiaan",
     "Excalidraw",
     "Lant",
     "Nepo",
     "Ponomarev",
+    "Todos",
     "Verwijs",
     "wireframe",
     "Wireframes",
     "WIREFRAME",
     "Yodiz",
-    "Zepel",
-
-
-
+    "Zepel"
   ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg",
+    "**/*.svg"
   ]
 }
