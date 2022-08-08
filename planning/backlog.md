@@ -29,17 +29,17 @@ As a user, I can see Apply button on the home page.
 - [ ] As a user, I can see the title of the page with the informative image
       background.
 
-#### OUR PROGRAM
+#### Our program
 
 - [ ] As a user, I can see the description about the program on left of the
       section with the image on the right of it.
 
-#### OUR IMPACT
+#### Our impact
 
 - [ ] As a user i can see student success stories on the home page statistical
       graduate student information
 
-#### CORE VALUES
+#### Core values
 
 - [ ] As a user i can see Core values of HYF on the home page.
 
@@ -51,7 +51,7 @@ As a user, I can see Apply button on the home page.
 > There is a footer with the address and social media links of HYF on each page
 > of the site
 
-#### The Programs page
+### The Programs page
 
 - [ ] As a user, I want to know about programs offered at HYF and:-
 
@@ -59,7 +59,7 @@ As a user, I can see Apply button on the home page.
 > there is apply option on the program page for students or coaches there is a
 > guide on who can apply and the programming languages to be taught
 
-#### About Page
+### About Page
 
 - [ ] As a user I want to know what HYF is all about in detail and:-
 
@@ -67,15 +67,7 @@ As a user, I can see Apply button on the home page.
 > on what HYF is about there are section on this page with the mission and
 > vision of HYF there is a section of HYF team and their profiles
 
-#### Volunteer
-
-- As a user i want to know how i can volunteer at at HYF there is Volunteer page
-  on the navbar of the site.
-  > there is Volunteer page which can be accessed from the navbar with button to
-  > apply to volunteer there is a guide on why one should volunteer at HYF there
-  > is a inspiring story from one of the coaches at HYF
-
-### Volunteer
+### Volunteer Page
 
 As a user i want to read FAQs to be more educated, informed, and guide through
 website content.
@@ -84,12 +76,20 @@ website content.
 
 ## Should-Haves
 
-### Our success stories
+> A should-have compilation set for the homepage that will complete the user
+> experience, but are not necessary.
 
-- [ ] As a user, I can see some of the alumini student's success stories.
+**_As a user interested in learning web development_**
 
-### Our Partners
+- I want to know more about frequently asked questions of HYF
+  - [ ] _there is FAQ._
 
-- [ ] As a user, I can see partner companies of the Hack your Future.
+**_As a coach/volunteer_**
 
-### Could-Haves
+- I want to know the people who run the organization.
+  - [ ] _there's about us info including team members profile._
+- I want to know the requirements and how to apply as a coach/volunteer
+  - [ ] _there's an info page for the coach/mentor volunteering for the
+        program._
+
+## Could-Haves
