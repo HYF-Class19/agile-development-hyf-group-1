@@ -3,3 +3,4 @@ accessibility_report
 **/.DS_Store
 .vscode/*
 .history
+.idea/*
