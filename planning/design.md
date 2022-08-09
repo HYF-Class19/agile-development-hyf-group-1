@@ -14,7 +14,7 @@
 
 ## Digitalents page
 
-![design_home](../images/digitalents.excalidraw.png)
+![design_home](../images/digitalents.png)
 
 ## About page
 
