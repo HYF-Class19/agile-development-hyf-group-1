@@ -160,7 +160,11 @@ website
 
 ### Digitalents programme
 
+- There is a section explains teh programe offers
+
 ### Apply to join Digitalents program
+
+- There is a section to apply for digitalents program
 
 ## About Page
 
@@ -193,10 +197,18 @@ website
 
 ### Programme values
 
+- There is a section with values of hack your future
+
 ### HYF team
+
+- There should be a section with hack your future team
 
 ### Could have
 
 ### Mission and vision of program
 
+- There is a section for mission and visions for hack your future
+
 ### History of HYF
+
+- There is a history section for hack your future
