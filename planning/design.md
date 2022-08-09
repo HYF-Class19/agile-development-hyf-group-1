@@ -10,7 +10,7 @@
 
 ## Volunteer page
 
-![design_home](../images/volunteer.excalidraw.png)
+![design_home](../images/volunteer.png)
 
 ## Digitalents page
 
