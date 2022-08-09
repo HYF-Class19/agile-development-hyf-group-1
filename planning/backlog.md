@@ -4,92 +4,211 @@
 
 ### Must-Haves
 
-#### Title
+### Title
 
 - [ ] As a user, I can see the title on the left corner of the nav bar.
 
 > There is a descriptive title, briefly explaining what the website is about.
 
-#### Navbar
+### Navbar
 
 - [ ] As a user, I can use the navbar to navigate to different pages of the
       website
+  > There is a navbar on each page of the website for easy redirecting of the
+  > user to other pages of the site.
+- [ ] As a user, I can see Apply button on the home page.
+  > There is visible apply button on the Navbar for the user.
 
-> There is a navbar on each page of the website for easy redirecting of the user
-> to other pages of the site.
-
-#### User Apply Button
-
-As a user, I can see Apply button on the home page.
-
-> There is visible apply option on the Navbar for the user.
-
-#### Title with Background Image
+### Title with Background Image
 
 - [ ] As a user, I can see the title of the page with the informative image
       background.
 
-#### OUR PROGRAM
+### Contact us
 
-- [ ] As a user, I can see the description about the program on left of the
-      section with the image on the right of it.
+- there is a contact us on home page
 
-#### OUR IMPACT
-
-- [ ] As a user i can see student success stories on the home page statistical
-      graduate student information
-
-#### CORE VALUES
-
-- [ ] As a user i can see Core values of HYF on the home page.
-
-#### The footer
+### The footer
 
 - [ ] As a user, I want to see the footer with the contact information social
       media links
-
-> There is a footer with the address and social media links of HYF on each page
-> of the site
-
-#### The Programs page
-
-- [ ] As a user, I want to know about programs offered at HYF and:-
-
-> there is The program page accessed from the navbar with program information
-> there is apply option on the program page for students or coaches there is a
-> guide on who can apply and the programming languages to be taught
-
-#### About Page
-
-- [ ] As a user I want to know what HYF is all about in detail and:-
-
-> there is ABOUT page on the website accessed from the navbar with information
-> on what HYF is about there are section on this page with the mission and
-> vision of HYF there is a section of HYF team and their profiles
-
-#### Volunteer
-
-- As a user i want to know how i can volunteer at at HYF there is Volunteer page
-  on the navbar of the site.
-  > there is Volunteer page which can be accessed from the navbar with button to
-  > apply to volunteer there is a guide on why one should volunteer at HYF there
-  > is a inspiring story from one of the coaches at HYF
-
-### Volunteer
-
-As a user i want to read FAQs to be more educated, informed, and guide through
-website content.
-
-> there is FAQ page on the website which can be accessed from the navbar
+  > There is a footer with the address and social media links of HYF on each
+  > page of the site
 
 ## Should-Haves
 
-### Our success stories
+- Our program
+- our impact
+- success stories partners
+- Support the developers of tomorrow
 
-- [ ] As a user, I can see some of the alumini student's success stories.
+## Could have
 
-### Our Partners
+-our core values
 
-- [ ] As a user, I can see partner companies of the Hack your Future.
+## The Program page
 
-### Could-Haves
+### Must have
+
+### Title
+
+- As a user i want to see the title and information about the programms
+- There is a descriptive title on the lift side of the page with an introduction
+  for the home page
+
+### Navbar
+
+[ ] As a user, I can use the navbar to navigate to different pages of the
+website
+
+> There is a navbar on each page of the website for easy redirecting of the user
+> to other pages of the site.
+
+- [ ] As a user, I can see Apply button on the home page.
+  > There is visible apply button on the Navbar for the user.
+
+### Footer
+
+- [ ] As a user, I want to see the footer with the contact information social
+      media links
+  > There is a footer with the address and social media links of HYF on each
+  > page of the site
+
+### Should-Haves
+
+- who can apply
+- 9-Months course program
+  > curriculum and web development languages taught at HYF
+
+### Could have
+
+- information about final project
+- In formation about mentorship program
+- Career Skills Sessions
+- [ ] As a user, I want to know about programs offered at HYF and:-
+  > there is apply option on the program page for students or coaches there is a
+  > guide on who can apply and the programming languages to be taught
+
+## Volunteer Page
+
+### Must have
+
+### Title
+
+- As a user i want to see the title and a page information
+- There is a prominent title and information about volunteering and how to join
+  as coaches and as mentors
+
+### Navbar
+
+[ ] As a user, I can use the navbar to navigate to different pages of the
+website
+
+> There is a navbar on each page of the website for easy redirecting of the user
+> to other pages of the site.
+
+- [ ] As a user, I can see Apply button on the home page.
+  > There is visible apply button on the Navbar for the user.
+
+### Footer
+
+- [ ] As a user, I want to see the footer with the contact information social
+      media links
+  > There is a footer with the address and social media links of HYF on each
+  > page of the site
+
+### Should-Haves
+
+- Stories from coaches
+
+### Could have
+
+- Volunteer motivation
+- [ ] theres is a section explaining why you should volunteer at HYF
+- [ ] As a user I want to know what HYF is all about in detail and:-
+  > there is ABOUT page on the website accessed from the navbar with information
+  > on what HYF is about there are section on this page with the mission and
+  > vision of HYF there is a section of HYF team and their profiles.
+
+## Digitalents Page
+
+### Must have
+
+### Title
+
+- There is a descriptive title and information about Digitalents program
+
+### Navbar
+
+[ ] As a user, I can use the navbar to navigate to different pages of the
+website
+
+> There is a navbar on each page of the website for easy redirecting of the user
+> to other pages of the site.
+
+- [ ] As a user, I can see Apply button on the home page.
+  > There is visible apply button on the Navbar for the user.
+
+### Footer
+
+- [ ] As a user, I want to see the footer with the contact information social
+      media links
+  > There is a footer with the address and social media links of HYF on each
+  > page of the site
+
+### Should-Haves
+
+### Digitalents programme
+
+- There is a section explains teh programe offers
+
+### Apply to join Digitalents program
+
+- There is a section to apply for digitalents program
+
+## About Page
+
+### Must have
+
+### Title
+
+- As a user i want to know more about hack your future
+- There is a descriptive title in the center of the page
+
+### Navbar
+
+[ ] As a user, I can use the navbar to navigate to different pages of the
+website
+
+> There is a navbar on each page of the website for easy redirecting of the user
+> to other pages of the site.
+
+- [ ] As a user, I can see Apply button on the home page.
+  > There is visible apply button on the Navbar for the user.
+
+### Footer
+
+- [ ] As a user, I want to see the footer with the contact information social
+      media links
+  > There is a footer with the address and social media links of HYF on each
+  > page of the site
+
+## Should-Have
+
+### Programme values
+
+- There is a section with values of hack your future
+
+### HYF team
+
+- There should be a section with hack your future team
+
+### Could have
+
+### Mission and vision of program
+
+- There is a section for mission and visions for hack your future
+
+### History of HYF
+
+- There is a history section for hack your future
