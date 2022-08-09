@@ -18,4 +18,4 @@
 
 ## About page
 
-![design_home](../images/about.excalidraw.png)
+![design_home](../images/about.png)
