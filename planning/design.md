@@ -2,7 +2,7 @@
 
 ## Home page
 
-![design_home](../images/home.excalidraw.png)
+![design_home](../images/home.png)
 
 ## The program page
 
