@@ -25,14 +25,19 @@
       background.
 
 <<<<<<< HEAD
+
 #### Our program
+
 =======
+
 ### Contact us with map
->>>>>>> 195c7461e9e7cff4484868f96550b7148a94f8bb
+
+> > > > > > > 195c7461e9e7cff4484868f96550b7148a94f8bb
 
 - there is a contact us on home page
 
 <<<<<<< HEAD
+
 #### Our impact
 
 - [ ] As a user i can see student success stories on the home page statistical
@@ -89,11 +94,12 @@ website content.
   - [ ] _there's about us info including team members profile._
 - I want to know the requirements and how to apply as a coach/volunteer
   - [ ] _there's an info page for the coach/mentor volunteering for the
-        program._
-:diffg RE
+        program._ :diffg RE
 
 ## Could-Haves
+
 =======
+
 ### The footer
 
 - [ ] As a user, I want to see the footer with the contact information social
@@ -101,7 +107,7 @@ website content.
   > There is a footer with the address and social media links of HYF on each
   > page of the site
 
-## Should-Haves
+## Should haves
 
 - program info
 - impact
@@ -279,4 +285,4 @@ website
 ### History of HYF
 
 - There is a history section for hack your future
->>>>>>> 195c7461e9e7cff4484868f96550b7148a94f8bb
+  > > > > > > > 195c7461e9e7cff4484868f96550b7148a94f8bb
