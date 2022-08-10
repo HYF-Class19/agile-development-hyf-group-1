@@ -24,7 +24,7 @@
 - [ ] As a user, I can see the title of the page with the informative image
       background.
 
-### Contact us
+### Contact us with map
 
 - there is a contact us on home page
 
@@ -37,14 +37,15 @@
 
 ## Should-Haves
 
-- Our program
-- our impact
-- success stories partners
-- Support the developers of tomorrow
+- program info
+- impact
+- success stories
+- partners
+- Support with donation form
 
 ## Could have
 
--our core values
+- core values
 
 ## The Program page
 
@@ -52,7 +53,7 @@
 
 ### Title
 
-- As a user i want to see the title and information about the programms
+- As a user i want to see the title and information about the programmes
 - There is a descriptive title on the lift side of the page with an introduction
   for the home page
 
@@ -76,7 +77,7 @@ website
 
 ### Should-Haves
 
-- who can apply
+- apply information
 - 9-Months course program
   > curriculum and web development languages taught at HYF
 
@@ -119,7 +120,7 @@ website
 
 ### Should-Haves
 
-- Stories from coaches
+- Stories of a coach and mentor
 
 ### Could have
 
@@ -160,7 +161,7 @@ website
 
 ### Digitalents programme
 
-- There is a section explains teh programe offers
+- There is a section explains teh programme offers
 
 ### Apply to join Digitalents program
 
