@@ -9,9 +9,8 @@ project success
 
 Project deadline is two weeks.
 
-- Browsers 
-There are different browsers with a range of specifications used by clients and
-may affect the display of the website on their devices
+- Browsers There are different browsers with a range of specifications used by
+  clients and may affect the display of the website on their devices
 
 ## Internal: Involuntary
 
@@ -26,7 +25,6 @@ may affect the display of the website on their devices
 :ballot_box_with_check: HTML
 
 :ballot_box_with_check: CSS
-
 
 ## Internal: Voluntary
 
