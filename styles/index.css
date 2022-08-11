@@ -279,7 +279,7 @@ a.nav-btn {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 0px;
-  white-space: pre-wrap;
+
   word-break: break-word;
   font-weight: 300;
 }
@@ -359,8 +359,7 @@ a.nav-btn {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 0px;
-  white-space: pre-wrap;
-  word-break: break-word;
+  /* word-break: break-word; */
   font-weight: 300;
 }
 
@@ -388,19 +387,6 @@ a.nav-btn {
   max-width: none;
 }
 
-.text-4 {
-  color: rgb(45, 48, 55);
-  text-align: left;
-  max-width: none;
-  line-height: 160%;
-  font-size: 16px;
-  font-family: "Space Mono", monospace;
-  margin: 0px;
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-weight: 300;
-}
-
 /*section3 */
 
 element.style {
@@ -418,6 +404,8 @@ element.style {
   background: none;
   z-index: 1;
   flex: 0 0 auto;
+  /* margin-bottom: 50px;
+  padding-top: 20px; */
 }
 .container_2 {
   display: flex;
@@ -576,7 +564,7 @@ element.style {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 0;
-  white-space: pre-wrap;
+
   word-break: break-word;
   font-weight: 300;
 }
@@ -632,4 +620,7 @@ element.style {
 .footer-link {
   text-decoration: none;
   text-align: center;
+}
+.footer-link a {
+  color: black;
 }
