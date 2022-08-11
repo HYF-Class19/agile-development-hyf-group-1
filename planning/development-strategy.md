@@ -104,7 +104,8 @@ The site needs a clear logo at the top-left of the page.
 - CSS Link
 - Meta tags
 - Tittle
-- Content: HTML
+
+### Content: HTML
 
 - Section containing Nav-bar, logo on the top and right of the page and "Apply
   now" button
@@ -147,9 +148,7 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: CSS
 
-## about.html <!-- Michael -->
-
-## about.html <!-- Michael -->
+## about.html
 
 <!-- **Head start** -->
 
