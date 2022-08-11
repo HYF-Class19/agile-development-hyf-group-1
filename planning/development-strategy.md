@@ -106,11 +106,30 @@ The site needs a clear logo at the top-left of the page.
 - Tittle
 - Content: HTML
 
+- Section containing Nav-bar, logo on the top and right of the page and "Apply
+  now" button
+- Section containing Title with text under the title and buttons to join as a
+  coach/mentor
+- Section containing text about volunteer`s motivation
+- Section containing 2 photo with text and buttons
+
 ### content: CSS
+
+- Bottom border when hover over the navigation links and place logo and elements
+- Position Title with text using grid.
+- Position text about volunteer`s motivation using grid
+- Position 2 photo and stories content using grid
+- Position footer using grid
 
 ### Footer: HTML
 
+- Section containing title, addres and @mail
+- Section for social medial links
+
 ### Footer: CSS
+
+- -Use grid to position items on to footer
+- Use hover for social media links
 
 ## digitalents.html <!-- Elnura -->
 
