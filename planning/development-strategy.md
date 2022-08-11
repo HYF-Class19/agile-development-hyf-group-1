@@ -104,7 +104,8 @@ The site needs a clear logo at the top-left of the page.
 - CSS Link
 - Meta tags
 - Tittle
-- Content: HTML
+
+### Content: HTML
 
 - Section containing Nav-bar, logo on the top and right of the page and "Apply
   now" button
@@ -147,18 +148,43 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: CSS
 
-## about.html <!-- Michael -->
+## about.html
 
 <!-- **Head start** -->
+
+### Content: HTML
 
 - CSS Link
 - Meta tags
 - Tittle
-
-### Content: HTML
+<!-- body starts here -->
+- Section containing Nav-bar, logo on the top and right of the page and "Apply
+  now" button
+- Section containing descriptive title in the center of the page
+- Section containing text about HYF values with 5 images
+- Section containing text about mission and our vision with 2 images
+- Section containing text about history with image
+- Section containing text about team names, 5 images and links to social media
+  and email.
 
 ### content: CSS
 
+- Bottom border when hover over the navigation links and place logo
+- Position text about 'what hackyourfuture is about' using grid
+- Position text, images, social medial links using grid
+<!-- body ends here -->
+
+<!-- footer starts here -->
+
 ### Footer: HTML
 
+- Position footer using grid
+- Section containing title, address and mail
+- Section containing text and links to social media and live chat
+
 ### Footer: CSS
+
+- Use grid to position items on to footer
+- Use hover for social media links
+
+<!-- footer ends here -->
