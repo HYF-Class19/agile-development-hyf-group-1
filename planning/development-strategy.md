@@ -97,7 +97,7 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: CSS
 
-## volunteer.html <!-- Valeriya -->
+## Volunteer.html <!-- Valeriya -->
 
 <!-- **Head start** -->
 
@@ -123,12 +123,12 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: HTML
 
-- Section containing title, addres and @mail
+- Section containing title, address and @mail
 - Section for social medial links
 
 ### Footer: CSS
 
-- -Use grid to position items on to footer
+- Use grid to position items on to footer
 - Use hover for social media links
 
 ## digitalents.html <!-- Elnura -->
