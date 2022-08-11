@@ -10,14 +10,7 @@ project success
 Project deadline is two weeks.
 
 - Browsers There are different browsers with a range of specifications used by
-  clients and may affect the dsplay of the website on their devices
-
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+  clients and may affect the display of the website on their devices
 
 ## Internal: Involuntary
 
@@ -27,23 +20,17 @@ Project deadline is two weeks.
 
 :ballot_box_with_check: GitHub
 
-:ballot_box_with_check: Excalidraw
+:ballot_box_with_check: MD
 
 :ballot_box_with_check: HTML
 
 :ballot_box_with_check: CSS
 
-<!--
-  constraints that come from within your team, and you have no control over them. they may include:
-  - each of your individual skill levels
-  - the amount of time available to work on the project
--->
-
 ## Internal: Voluntary
 
 ### Availability
 
-- Each team member's availability time.
+- Each team member's availability min 3 hours.
 - [Here's our communication plan](.communication-plan.md)
 
 ### Communication
