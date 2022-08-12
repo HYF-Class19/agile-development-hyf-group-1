@@ -24,7 +24,7 @@
     "Elnura",
     "Valeriya",
     "dsplay"
-],
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
