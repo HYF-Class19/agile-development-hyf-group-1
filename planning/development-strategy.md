@@ -142,7 +142,19 @@ The site needs a clear logo at the top-left of the page.
 
 ### Content: HTML
 
+- Digitalents page contains:
+- logo
+- navbar
+- section-1: paragraphs with text
+- section-2: the main paragraphs and two containers with a paragraphs and text
+  each.
+- section-3: contains a paragraphs, text, images and a form to fill out.
+- footer: link to contact information
+
 ### content: CSS
+
+- contains styles for each class.
+- the colors of the main HYF site is taken into account.
 
 ### Footer: HTML
 
