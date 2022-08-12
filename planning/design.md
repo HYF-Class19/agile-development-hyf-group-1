@@ -2,7 +2,7 @@
 
 ## Home page
 
-![design_home](../images/home.excalidraw.png)
+![design_home](../images/home.png)
 
 ## The program page
 
@@ -10,12 +10,12 @@
 
 ## Volunteer page
 
-![design_home](../images/volunteer.excalidraw.png)
+![design_home](../images/volunteer.png)
 
 ## Digitalents page
 
-![design_home](../images/digitalents.excalidraw.png)
+![design_home](../images/digitalents.png)
 
 ## About page
 
-![design_home](../images/about.excalidraw.png)
+![design_home](../images/about.png)

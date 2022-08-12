@@ -3,6 +3,7 @@
   "words": [
     "accessibility_report",
     "Ayissi",
+    "AYISSI",
     "Bilde",
     "Christiaan",
     "Digitalents",
@@ -17,8 +18,13 @@
     "Wireframes",
     "Yodiz",
     "Zepel",
-    "welookingfor"
-  ],
+
+    "welookingfor",
+    "Samir",
+    "Elnura",
+    "Valeriya",
+    "dsplay"
+],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
