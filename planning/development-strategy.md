@@ -9,7 +9,7 @@ This is a website for helping new talent into the tech world
 Wireframing is a process where designers draw overviews of interactive products
 to establish the structure and flow of possible design solutions.
 
-<!-- [WireFrame]() link -->
+[WireFrame](design.md)
 
 ## Tools for wireframe
 
@@ -146,9 +146,15 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: HTML
 
+- Section containing title, address and @mail
+- Section for social medial links
+
 ### Footer: CSS
 
-## about.html
+- Use grid to position items on to footer
+- Use hover for social media links
+
+## about.html <!-- Michael -->
 
 <!-- **Head start** -->
 
