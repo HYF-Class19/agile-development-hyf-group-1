@@ -91,11 +91,26 @@ The site needs a clear logo at the top-left of the page.
 
 ### Content: HTML
 
+- Section containing navbar , picture on the right of the page and title with
+  button APPLY NOW
+- Section with a TITLE and text under it
+- Section with title and text to explain who can apply to this program
+
 ### content: CSS
+
+- Bottom border when hover over the navigation links and place logo and elements
+- Styling and puttiong the pictures side to side with the texts
+- adding the logos of the program languages
 
 ### Footer: HTML
 
+- Section containing title, address and @mail
+- Section for social medial links
+
 ### Footer: CSS
+
+- Use grid to position items on to footer
+- Use hover for social media links
 
 ## Volunteer.html <!-- Valeriya -->
 
