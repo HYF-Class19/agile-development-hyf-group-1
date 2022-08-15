@@ -1,4 +1,4 @@
-# Name of project  : Hack Your Future
+# Name of project : Hack Your Future
 
 > This is a website for helping new talent into the tech world
 
@@ -24,13 +24,10 @@
 
 > Hack Your Future is a website for helping new talent into the tech world
 
-
 ### Screenshots
 
-![Home Page](./images/home.png)
-![The Program](./images/program.png)
-![Volunteer](./images/volunteer.png)
-![Digitalent](./images/digitalents.png)
+![Home Page](./images/home.png) ![The Program](./images/program.png)
+![Volunteer](./images/volunteer.png) ![Digitalent](./images/digitalents.png)
 ![About](./images/about.png)
 
 ### Technologies
@@ -42,8 +39,6 @@
 5. Node 14.16.0
 6. JavaScript
 7. VSC code
-
-
 
 ## Setup
 
@@ -65,7 +60,6 @@
   on all HTML files in the given path and writes the report to
   `/accessibility_report`
 
-
 ## Code examples
 
 ```HTML
@@ -81,12 +75,11 @@
 </p>
 ```
 
-
 ## Features
 
 List of features ready and Todos for future development
 
-- 
+-
 -
 -
 
@@ -110,14 +103,14 @@ Project by Hack Your Future Belgium
 ## Group Members
 
 | Name                | GitHub Links                                        |
-|---------------------|-----------------------------------------------------|
+| ------------------- | --------------------------------------------------- |
 | **Anas Abbar**      | [anasabbar](https://github.com/anasabbar)           |
-| **Elnura**          | [Elya88](https://github.com/Elya88)                 | 
+| **Elnura**          | [Elya88](https://github.com/Elya88)                 |
 | **Michael Mugaiga** | [MichaelMugaiga](https://github.com/MichaelMugaiga) |
 | **Thomas Ayissi**   | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 | **Valeriya**        | [V-Valkiriya](https://github.com/V-Valkiriya)       |
 
-## Instructions for use 
+## Instructions for use
 
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
