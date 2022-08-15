@@ -26,10 +26,8 @@
 
 ### Screenshots
 
-![Home Page](./images/home.png) 
-![The Program](./images/program.png)
-![Volunteer](./images/volunteer.png) 
-![Digitalent](./images/digitalents.png)
+![Home Page](./images/home.png) ![The Program](./images/program.png)
+![Volunteer](./images/volunteer.png) ![Digitalent](./images/digitalents.png)
 ![About](./images/about.png)
 
 ### Technologies
