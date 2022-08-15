@@ -42,8 +42,6 @@
 
 ## Setup
 
-## Code Quality Checks
-
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
