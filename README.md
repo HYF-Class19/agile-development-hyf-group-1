@@ -29,9 +29,9 @@
 
 ![Home Page](./images/home.png)
 ![The Program](./images/program.png)
-![Volunteer](./images/program.png)
-![Digitalent](Loruki-Page2-FeaturesHtml.png)
-![About](Loruki-Page3-DocsHtml.png)
+![Volunteer](./images/volunteer.png)
+![Digitalent](./images/digitalents.png)
+![About](./images/about.png)
 
 ### Technologies
 
