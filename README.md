@@ -29,7 +29,7 @@
 
 ![Home Page](./images/home.png)
 ![The Program](./images/program.png)
-![Volunteer](Loruki-Page3-DocsHtml.png)
+![Volunteer](./images/program.png)
 ![Digitalent](Loruki-Page2-FeaturesHtml.png)
 ![About](Loruki-Page3-DocsHtml.png)
 
