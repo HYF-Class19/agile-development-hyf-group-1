@@ -117,7 +117,7 @@ Project by Hack Your Future Belgium
 | **Thomas Ayissi**   | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 | **Valeriya**        | [V-Valkiriya](https://github.com/V-Valkiriya)       |
 
-## Instructions for use
+## Instructions for use 
 
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
