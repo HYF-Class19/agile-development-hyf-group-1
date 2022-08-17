@@ -7,6 +7,75 @@
     font-family: sans-serif;
 }
 
+
+header {
+    flex-basis: 78px;
+}
+
+
+footer{
+   flex-basis: 320px;
+}
+
+
+.logohyf{
+    margin-top: 30px;
+    margin-left: 5px;
+
+}
+
+.secondary_header{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+
+}
+
+.home-page, .the-program, .volunteer, .digitalent, .about, .faq, .support-us, .apply-hack-your-future {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+    margin-top: auto;
+    border-radius: 5px;
+    font-size: 12px;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.home-page, .the-program, .volunteer, .digitalent, .about, .faq, .support-us {
+    color: #717070;
+
+}
+
+
+.apply-hack-your-future {
+    color: #F6F6F6;
+}
+
+.blue{
+    background-color: blue;
+}
+
+
+/*.flex-container > nav .secondary_header {
+    display: flex;
+    text-decoration: none;
+    justify-content: flex-end;
+    padding-right: 10px;
+    text-decoration-color : #A5A5A5;
+}*/
+
+
 .container {
     background-color: #FFFFFF;
     width: 90%;
@@ -38,40 +107,13 @@
 }*/
 
 
-.flex-container {
+/*.flex-container {
     display: flex;
     justify-content: space-between;
 
-}
-
-.secondary_header{
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 20px;
-    padding-right: 20px;
-    padding-top: 25px;
-    border-radius: 5px;
-    font-size: 12px;
-
-}
-
-.home-page, .the-program, .volunteer, .digitalent, .about, .faq, .support-us, .apply-hack-your-future {
-    text-decoration: none;
-    font-size: 12px;
-    border-right: 10px;
-    border-top: 10 px;
-    border-bottom :10px;
-}
-
-
-
-/*.flex-container > nav .secondary_header {
-    display: flex;
-    text-decoration: none;
-    justify-content: flex-end;
-    padding-right: 10px;
-    text-decoration-color : #A5A5A5;
 }*/
+
+
 
 
 /*.secondary_header .navbar-options {
@@ -86,6 +128,35 @@
     flex-wrap: nowrap;
 
 }*/
+
+/*FIRST HEADER WITH HYF COURSE PIC*/
+
+
+ .fisrt-header-with-hyf-class-image-and-text{
+     display: flex;
+     flex-flow: line;
+     padding: 5px;
+     max-width: 1;
+     max-height: 18%;
+     justify-content: space-around;
+     z-index: 1;
+ }
+
+     /*content: "";
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.267);
+     top: 0px;
+     left: 0px;
+     z-index: 1;*/
+
+
+
+
+
+
+
+
 .row.blockDisplay {
     display: block;
 }
@@ -156,10 +227,10 @@
     padding-left: 0px;
     width: 80%;
 }*/
-.secondary_header ul li {
+/*.secondary_header ul li {
     list-style-type: none;
     float: right; /*ancienneemnt left*/
-    margin-right: auto;
+    /*margin-right: auto;
     margin-top: 0px;
     font-family: sans-serif;
     font-weight: normal;
@@ -167,11 +238,11 @@
     letter-spacing: 1px;
     margin-left: auto;
     text-align: center;  /*ancieneemnt : center*/
-    width: 75%;
+    /*width: 75%;
     transition: all 0.3s linear;
     /*nouveaux ajouts pour mettre en ligne + réduire taille police*/
-    display: inline ;
-}
+    /*display: inline ;
+}*/
 .secondary_header ul li:hover {
     color: #717070;
     cursor: pointer;
