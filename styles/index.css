@@ -56,7 +56,7 @@ ul {
 
 .volunteer-button {
   display: inline-flex;
-  margin: -30px 0 0;
+  margin: -10px 0 0;
   font-size: 12px;
   text-decoration: none;
   background-color: rgb(74, 80, 187);
@@ -89,6 +89,14 @@ ul {
   color: rgb(28, 34, 148);
   text-align: center;
   max-width: none;
+}
+
+.button-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 80px;
 }
 
 .volunteer-text {
@@ -171,6 +179,7 @@ ul {
   width: 60%;
   z-index: 0;
   position: static;
+  background: none 0% 0% / auto transparent;
   flex: 0 1 60%;
   margin: 0;
   padding: 0;
@@ -198,13 +207,14 @@ ul {
 .motivation-items {
   display: flex;
   width: 40%;
-  flex-direction: column;
+  flex-direction: row;
   align-items: flex-start;
-  margin-top: 40px;
+  padding: 10px 10px;
+  margin-top: 20px;
 }
 
 .motivation-image {
-  margin-bottom: 20px;
+  padding: 0 30px;
   min-height: 70px;
   object-fit: contain;
 }
@@ -396,7 +406,6 @@ ul {
 }
 
 .mentor-button {
-  display: inline-flex;
   font-size: 12px;
   line-height: 160%;
   text-decoration: none;
@@ -410,7 +419,6 @@ ul {
   cursor: pointer;
   text-transform: uppercase;
   -webkit-box-align: center;
-  align-items: center;
   font-family: "Work Sans", sans-serif;
 }
 
@@ -425,6 +433,7 @@ ul {
   position: relative;
   z-index: 1;
   flex: 0 0 auto;
+  box-shadow: rgb(0 0 0 / 8%) 0 0 53px;
 }
 
 .volunteer-footer-title {

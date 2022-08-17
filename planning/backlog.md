@@ -93,12 +93,10 @@ website content.
 - I want to know the people who run the organization.
   - [ ] _there's about us info including team members profile._
 - I want to know the requirements and how to apply as a coach/volunteer
-  - [ ] _there's an info page for the coach/mentor volunteering for the
-        program._ :diffg RE
+  - [ ] \_there's an info page for the coach/mentor volunteering for the
+        program.
 
 ## Could-Haves
-
-=======
 
 ### The footer
 
