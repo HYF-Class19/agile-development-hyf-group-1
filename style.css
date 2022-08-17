@@ -17,17 +17,25 @@ footer{
    flex-basis: 320px;
 }
 
+header, div > header, div > nav, nav{
+    display: inline-flex;
+
+}
 
 .logohyf{
-    margin-top: 30px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin-top: 15px;
     margin-left: 5px;
 
 }
 
 .secondary_header{
-    display: flex;
+    display: inline-flex;
     justify-content: flex-end;
     font-size: 12px;
+    margin-top: 60px;
+    margin-left: 500px;
 
 }
 
@@ -36,7 +44,7 @@ footer{
 }
 
 .navbar {
-    display: flex;
+    display: inline-flex;
     justify-content: flex-end;
     align-items: flex-end;
     padding-top: 10px;
@@ -404,7 +412,7 @@ body {
         margin-left: 0px;
         width: 100%;
     }
-  /*  .container .secondary_header ul {
+     .container .secondary_header ul {
         margin-top: 0px;
         margin-right: 0px;
         margin-bottom: 0px;
@@ -416,7 +424,7 @@ body {
         height: auto;
         width: 100%;
         text-align: center;
-    }*/
+    }
     .secondary_header {
         margin-top: 0px;
         margin-right: 0px;
@@ -490,7 +498,7 @@ body {
         margin-left: 0px;
         width: 100%;
     }
-  /*  .container .secondary_header ul {
+   .container .secondary_header ul {
         margin-top: 0px;
         margin-right: 0px;
         margin-bottom: 0px;
@@ -502,7 +510,7 @@ body {
         height: auto;
         width: 100%;
         text-align: center;
-    }*/
+    }
     .secondary_header {
         margin-top: 0px;
         margin-right: 0px;
