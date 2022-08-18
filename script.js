@@ -1,6 +1,4 @@
-
-document.getElementsByClassName
+document.getElementsByClassName;
 {
-  function getElementsByClassName(.container) {
-  }
+  function getElementsByClassName(container) {}
 }
