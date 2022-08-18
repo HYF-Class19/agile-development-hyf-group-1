@@ -4,5 +4,6 @@
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "liveServer.settings.port": 5504,
-  "editor.guides.indentation": true
+  "editor.guides.indentation": true,
+  "cSpell.words": ["achecker", "stylelint", "welookingfor"]
 }

@@ -13,6 +13,9 @@
     "diffg",
     "dsplay",
     "Digitalents",
+    "dsplay",
+    "Eleni",
+    "Elnura",
     "Digitalent",
     "Elnura",
     "Elya",
@@ -22,6 +25,11 @@
     "hackyourfuture",
     "Lant",
     "livechat",
+    "Nepo",
+    "Ponomarev",
+    "Samir",
+    "Todos",
+    "Valeriya",
     "Mugaiga",
     "Nepo",
     "Ponomarev",
@@ -37,6 +45,7 @@
     "wireframe",
     "WIREFRAME",
     "Wireframes",
+    "Wireframing",
     "Yodiz",
     "Zepel"
   ],
@@ -45,6 +54,7 @@
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg"
+    "**/*.svg",
+    ".vscode/*"
   ]
 }
