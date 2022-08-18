@@ -9,7 +9,7 @@ This is a website for helping new talent into the tech world
 Wireframing is a process where designers draw overviews of interactive products
 to establish the structure and flow of possible design solutions.
 
-<!-- [WireFrame]() link -->
+[WireFrame](design.md)
 
 ## Tools for wireframe
 
@@ -91,11 +91,26 @@ The site needs a clear logo at the top-left of the page.
 
 ### Content: HTML
 
+- Section containing navbar , picture on the right of the page and title with
+  button APPLY NOW
+- Section with a TITLE and text under it
+- Section with title and text to explain who can apply to this program
+
 ### content: CSS
+
+- Bottom border when hover over the navigation links and place logo and elements
+- Styling and puttiong the pictures side to side with the texts
+- adding the logos of the program languages
 
 ### Footer: HTML
 
+- Section containing title, address and @mail
+- Section for social medial links
+
 ### Footer: CSS
+
+- Use grid to position items on to footer
+- Use hover for social media links
 
 ## Volunteer.html <!-- Valeriya -->
 
@@ -104,7 +119,8 @@ The site needs a clear logo at the top-left of the page.
 - CSS Link
 - Meta tags
 - Tittle
-- Content: HTML
+
+### Content: HTML
 
 - Section containing Nav-bar, logo on the top and right of the page and "Apply
   now" button
@@ -145,20 +161,51 @@ The site needs a clear logo at the top-left of the page.
 
 ### Footer: HTML
 
+- Section containing title, address and @mail
+- Section for social medial links
+
 ### Footer: CSS
+
+- Use grid to position items on to footer
+- Use hover for social media links
 
 ## about.html <!-- Michael -->
 
 <!-- **Head start** -->
 
+### Content: HTML
+
 - CSS Link
 - Meta tags
 - Tittle
-
-### Content: HTML
+<!-- body starts here -->
+- Section containing Nav-bar, logo on the top and right of the page and "Apply
+  now" button
+- Section containing descriptive title in the center of the page
+- Section containing text about HYF values with 5 images
+- Section containing text about mission and our vision with 2 images
+- Section containing text about history with image
+- Section containing text about team names, 5 images and links to social media
+  and email.
 
 ### content: CSS
 
+- Bottom border when hover over the navigation links and place logo
+- Position text about 'what hackyourfuture is about' using grid
+- Position text, images, social medial links using grid
+<!-- body ends here -->
+
+<!-- footer starts here -->
+
 ### Footer: HTML
 
+- Position footer using grid
+- Section containing title, address and mail
+- Section containing text and links to social media and live chat
+
 ### Footer: CSS
+
+- Use grid to position items on to footer
+- Use hover for social media links
+
+<!-- footer ends here -->
