@@ -4,17 +4,18 @@
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project : Hack Your Future](#name-of-project--hack-your-future)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
+    - [Screenshots](#screenshots)
+    - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
+  - [Code examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
+  - [Group Members](#group-members)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
