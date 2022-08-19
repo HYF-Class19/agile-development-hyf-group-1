@@ -1,5 +1,3 @@
-@import url("./something.css");
-
 a,
 abbr,
 acronym,
@@ -96,7 +94,6 @@ video {
 *::after {
   margin: 0;
   padding: 0;
-  /* box-sizing: inherit; */
 }
 
 * {
