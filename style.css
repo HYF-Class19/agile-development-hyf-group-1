@@ -338,9 +338,6 @@ div > nav {
   cursor: pointer;
 }
 
-.footer {
-  background-color: #717070;
-}
 
 .title {
   font-weight: bold;
@@ -425,6 +422,31 @@ body {
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
+}
+
+.social-media {
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social-media-color {
+  color: black;
+}
+
+footer {
+  margin-left: 5%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 100%;
+}
+
+.container .social .social_icon:hover {
+  cursor: pointer;
 }
 
 @media (max-width: 320px) {
@@ -524,6 +546,7 @@ body {
 
   /* .container .secondary_header {
   } */
+
 }
 
 @media (min-width: 321px) and (max-width: 768px) {
@@ -686,32 +709,9 @@ body {
     text-align: center;
     float: left;
     transition: all 0.3s linear;
-    line-height: 0px;
+    line-height: 0;
     padding-top: 7px;
   }
 }
 
-.social-media {
-  font-size: 30px;
-}
 
-a {
-  text-decoration: none;
-}
-
-.social-media-color {
-  color: black;
-}
-
-footer {
-  margin-left: 5%;
-  padding: 50px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  line-height: 100%;
-}
-
-.container .social .social_icon:hover {
-  cursor: pointer;
-}
