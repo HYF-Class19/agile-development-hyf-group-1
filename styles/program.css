@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.main-page-div {
+  margin-left: -5%;
+}
+
+.paragraph {
+  width: 40% !important;
+  line-height: 200%;
+}
+
+img {
+  width: auto;
+  height: 500px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+hr.solid {
+  max-width: 600px;
+  border-top: 1px solid #bbb;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 30px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+}
+
+.paragraph,
+.img-paragraph {
+  width: 500px;
+  line-height: 200%;
+}
+
+.main-color {
+  color: rgb(74 80 187);
+}
+
+.title-font {
+  font-family: "Work Sans", sans-serif;
+}
+
+.text-font {
+  font-family: "Space Mono", monospace;
+  font-style: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.btn {
+  min-width: 50px;
+  height: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 11px;
+  font-family: "Work Sans", sans-serif;
+  background-color: rgb(74 80 187);
+  color: white;
+  font-weight: bold;
+  width: auto;
+}
+
+.btn-more {
+  min-width: 50px;
+  height: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 11px;
+  font-family: "Work Sans", sans-serif;
+  background-color: inherit;
+  color: rgb(74 80 187);
+  font-weight: bold;
+  width: auto;
+}
+
+.btn-more:hover {
+  background-color: rgb(207, 206, 206);
+  color: rgb(74 80 187);
+}
+
+.svg {
+  width: 150px;
+  height: 60px;
+}
+
+.svg-img {
+  display: flex;
+  flex-flow: row wrap;
+  font-family: "Space Mono", monospace;
+  color: #9494aa;
+}
+
+.colored-background {
+  background-color: #f8f9fc;
+}
+
+.to-center {
+  display: flex;
+  justify-content: center;
+}
+
+.x-small {
+  padding: 50px;
+  width: 550px;
+  height: 400px;
+}
+
+.reversed {
+  padding-left: 150px;
+}
+
+.social-media {
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social-media-color {
+  color: black;
+}
+
+.hiden {
+  display: none;
+}
+
+#footer {
+  margin-left: 5%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 100%;
+}
