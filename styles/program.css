@@ -1,26 +1,35 @@
 body {
-  margin: 0px;
-  padding: 0px;
+
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
 }
-.container {
+
+.main-page-div {
   margin-left: -5%;
 }
+
+
 .paragraph {
   width: 40% !important;
   line-height: 200%;
 }
+
 img {
   width: auto;
   height: 500px;
 }
+
+
 ul {
   list-style-type: none;
 }
+
 hr.solid {
   max-width: 600px;
   border-top: 1px solid #bbb;
 }
+
 .row {
   display: flex;
   justify-content: center;
@@ -49,6 +58,7 @@ hr.solid {
   font-family: "Space Mono", monospace;
   font-style: bold;
 }
+
 .underline {
   text-decoration: underline;
 }
@@ -66,6 +76,7 @@ hr.solid {
   font-weight: bold;
   width: auto;
 }
+
 .btn-more {
   min-width: 50px;
   height: 20px;
@@ -101,6 +112,13 @@ hr.solid {
   background-color: #f8f9fc;
 }
 
+
+.to-center {
+  display: flex;
+  justify-content: center;
+}
+
+
 .x-small {
   padding: 50px;
   width: 550px;
@@ -111,14 +129,23 @@ hr.solid {
   padding-left: 150px;
 }
 
-.sociel-media {
+
+.social-media {
   font-size: 30px;
+}
+
+a {
   text-decoration: none;
 }
 
-.sociel-media-color {
+.social-media-color {
   color: black;
 }
+
+.hiden {
+  display: none;
+}
+
 
 #footer {
   margin-left: 5%;
