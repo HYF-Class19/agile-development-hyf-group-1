@@ -1,4 +1,5 @@
 body {
+
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -7,6 +8,7 @@ body {
 .main-page-div {
   margin-left: -5%;
 }
+
 
 .paragraph {
   width: 40% !important;
@@ -17,6 +19,7 @@ img {
   width: auto;
   height: 500px;
 }
+
 
 ul {
   list-style-type: none;
@@ -109,10 +112,12 @@ hr.solid {
   background-color: #f8f9fc;
 }
 
+
 .to-center {
   display: flex;
   justify-content: center;
 }
+
 
 .x-small {
   padding: 50px;
@@ -123,6 +128,7 @@ hr.solid {
 .reversed {
   padding-left: 150px;
 }
+
 
 .social-media {
   font-size: 30px;
@@ -139,6 +145,7 @@ a {
 .hiden {
   display: none;
 }
+
 
 #footer {
   margin-left: 5%;
