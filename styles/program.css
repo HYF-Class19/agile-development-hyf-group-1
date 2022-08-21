@@ -109,6 +109,11 @@ hr.solid {
   background-color: #f8f9fc;
 }
 
+
+.to-center{
+    display: flex;
+    justify-content: center;
+}
 .x-small {
   padding: 50px;
   width: 550px;
