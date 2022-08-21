@@ -431,6 +431,10 @@ a {
   color: black;
 }
 
+.hiden {
+  display: none;
+}
+
 footer {
   margin-left: 5%;
   padding: 50px;
