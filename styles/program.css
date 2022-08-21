@@ -124,12 +124,15 @@ hr.solid {
   padding-left: 150px;
 }
 
-.sociel-media {
+.social-media {
   font-size: 30px;
+}
+
+a {
   text-decoration: none;
 }
 
-.sociel-media-color {
+.social-media-color {
   color: black;
 }
 
