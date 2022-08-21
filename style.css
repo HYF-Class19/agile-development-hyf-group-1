@@ -690,7 +690,30 @@ body {
     padding-top: 7px;
   }
 
-  .container .social .social_icon:hover {
-    cursor: pointer;
-  }
+
+}
+
+.social-media {
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social-media-color {
+  color: black;
+}
+
+footer {
+  margin-left: 5%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 100%;
+}
+
+.container .social .social_icon:hover {
+  cursor: pointer;
 }
