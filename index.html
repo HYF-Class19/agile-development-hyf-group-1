@@ -14,16 +14,16 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   </head>
 
-  <body>
+  <body class="flex-container">
     <!-- The body of the page -->
 
-    <div class="flex-container container">
+    <div class="main-page-div">
       <!-- The header of the page -->
 
       <header class="hyf-website-header">
         <!-- The logo of the page -->
 
-        <div class="primary_header">
+        <div class="primary-header">
           <a class="home-page" href="index.html">
             <img
               class="logohyf"
@@ -35,34 +35,37 @@
 
         <!-- The navigation of the page -->
 
-        <div class="navbar">
-          <nav class="navbar vertical wrapper secondary_header">
-            <a class="home-page" href="index.html"><span>THE HOMEPAGE</span></a>
+        <div class="secondary-header">
+          <nav class="horizontal wrapper">
+            <a class="home-page" href="index.html"
+            ><div class="navbar">THE HOMEPAGE</div></a>
 
             <a class="the-program" href="./pages/program.html"
-              ><span>THE PROGRAM</span></a
+              ><div class="navbar">THE PROGRAM</div></a
             >
 
             <a class="volunteer" href="./pages/volunteer.html"
-              ><span>VOLUNTEER</span></a
+              ><div class="navbar">VOLUNTEER</div></a
             >
 
             <a class="digitalent" href="./pages/digitalents.html"
-              ><span>DIGITALENTS</span></a
+              ><div class="navbar">DIGITALENTS</div></a
             >
 
-            <a class="about" href="./pages/about.html"><span>ABOUT</span></a>
+            <a class="about" href="./pages/about.html"
+              ><div class="navbar">ABOUT</div></a>
 
-            <a class="faq" href="./pages/faq.html"><span>FAQ</span></a>
+            <a class="faq" href="./pages/faq.html"
+              ><div class="navbar">FAQ</div></a>
 
             <a class="support-us" href="./pages/support-us.html"
-              ><span>SUPPORT US</span></a
+              ><div class="navbar">SUPPORT US</div></a
             >
 
             <a
-              class="apply-hack-your-future blue"
+              class="apply-hack-your-future"
               href="https://zdlhgy25xnc.typeform.com/to/nWI71w97"
-              ><span> APPLY NOW</span></a
+              ><span class="navbar blue"> APPLY NOW</span></a
             >
           </nav>
         </div>
@@ -70,8 +73,8 @@
 
       <!-- The body of the page -->
 
-      <main class="flex-container">
-        <div class="container">
+      <main>
+        <div class="main-page-div">
           <section class="fisrt-header-with-hyf-class-image-and-text">
             <figure class="hyf-course">
               <img
@@ -86,7 +89,7 @@
 
           <!-- The content of the page -->
           <section>
-            <article class="left_article">
+            <article class="left-article">
               <!-- The "program info" of the page - snipet save : class="noDisplay"-->
               <h3 class="">OUR PROGRAM</h3>
               <p class="">
@@ -112,7 +115,7 @@
             </article>
 
             <!--- The "volonteer info" of the page (picture in the right of previous text) -->
-            <aside class="right_article">
+            <aside class="right-article">
               <img
                 src="./icons-logos-and-others-illustrations/ "
                 alt="Volunteer"
@@ -321,11 +324,7 @@
                     class="thumbnail"
                   />
                 </p>
-                <h4>A SUPPRIMER</h4>
-                <p>
-                  Labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                  nostrud.
-                </p>
+
               </div>
             </div>
           </section>
@@ -334,40 +333,28 @@
 
           <!-- SUPPORT THE DEVELOPPERS OF TOMORROW  (texte à gauche et formulaire de don à droite-->
           <div class="row blockDisplay">
-            <div class="column_half left_half">
-              <h2 class="column_title">LEFT COLUMN</h2>
+            <div class="column-half left-half">
+              <h2 class="column-title">LEFT COLUMN</h2>
             </div>
 
-            <div class="column_half right_half">
-              <h2 class="column_title">RIGHT COLUMN</h2>
+            <div class="column-half right-half">
+              <h2 class="column-title">RIGHT COLUMN</h2>
             </div>
           </div>
 
           <!--CONTACT US (formulaire de contact à gauche + Carte API à droite de la page-->
 
           <div class="row blockDisplay">
-            <div class="column_half left_half">
-              <h2 class="column_title">LEFT COLUMN</h2>
+            <div class="column-half left-half">
+              <h2 class="column-title">LEFT COLUMN</h2>
             </div>
 
-            <div class="column_half right_half">
-              <h2 class="column_title">RIGHT COLUMN</h2>
-            </div>
-          </div>
-
-          <!--FOOTER AVEC INFOS DE CONTACT DE HYF-->
-
-          <div class="row blockDisplay">
-            <div class="column_half left_half">
-              <h2 class="column_title">LEFT COLUMN</h2>
-            </div>
-
-            <div class="column_half right_half">
-              <h2 class="column_title">RIGHT COLUMN</h2>
+            <div class="column-half right-half">
+              <h2 class="column-title">RIGHT COLUMN</h2>
             </div>
           </div>
-        </div>
-      </main>
+
+ </main>
 
       <!--FOOTER WITH HYF CONTACT INFOS-->
       <footer class="footer row">
@@ -386,7 +373,7 @@
               alt="facebook"
             >
               <img
-                class="social"
+                class="social-icon thumbnail thumbnail-align"
                 src="./icons-logos-and-others-illustrations/facebook-icon.svg"
                 alt="Facebook"
               />
@@ -396,10 +383,10 @@
             <a
               href="https://twitter.com/HackYourFutureBE"
               alt="twitter"
-              class="social"
+              class="social-icon"
             >
               <img
-                class="social"
+                class="social-icon thumbnail thumbnail-align"
                 src="./icons-logos-and-others-illustrations/twitter-icon.svg"
                 alt="Twitter"
               />
@@ -409,10 +396,10 @@
             <a
               href="https://github.com/HackYourFutureBelgium/"
               alt="github"
-              class="social"
+              class="social-icon"
             >
               <img
-                class="social"
+                class="social-icon thumbnail thumbnail-align"
                 src="./icons-logos-and-others-illustrations/github-icon.svg"
                 alt="Github"
               />
@@ -422,10 +409,10 @@
             <a
               href="https://www.linkedin.com/company/hackyourfuturebe/"
               alt="linkedin"
-              class="social"
+              class="social-icon"
             >
               <img
-                class="social"
+                class="social-icon thumbnail thumbnail-align"
                 src="./icons-logos-and-others-illustrations/linkedin-icon.svg"
                 alt="LinkedIn"
               />
@@ -435,10 +422,10 @@
             <a
               href="https://www.livechat.com/fr/"
               alt="livechat"
-              class="social"
+              class="social-icon"
             >
               <img
-                class="social"
+                class="social-icon thumbnail thumbnail-align"
                 src="./icons-logos-and-others-illustrations/livechat-icon-footer.svg"
                 alt="Live Chat"
               />
